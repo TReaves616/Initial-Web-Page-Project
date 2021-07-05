@@ -27,14 +27,16 @@ h2 {
 }
 
 ul {
-text-align: center;
+text-align: left;
 list-style-position: inside;
+padding-left:23px;
 }
 
 
 ol {
-text-align: center;
+text-align: left;
 list-style-position: inside;
+padding-left:23px;
 }
 
 
