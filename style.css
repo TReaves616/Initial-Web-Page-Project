@@ -39,6 +39,8 @@ list-style-position: inside;
 padding-left:400px;
 }
 
+p { padding:13px;
+}
 
 #content {
 	padding-top: 8px;
