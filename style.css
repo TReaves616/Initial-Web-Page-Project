@@ -59,3 +59,9 @@ img {
 	height:200px;
 }
 
+.box {
+	background-image: url(../images/R.jpg);
+	background-repeat: no-repeat;
+	
+	
+}
