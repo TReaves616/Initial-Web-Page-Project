@@ -26,6 +26,17 @@ h2 {
 	text-align:center;
 }
 
+ul {
+text-align: center;
+list-style-position: inside;
+}
+
+
+ol {
+text-align: center;
+list-style-position: inside;
+}
+
 
 #content {
 	padding-top: 8px;
