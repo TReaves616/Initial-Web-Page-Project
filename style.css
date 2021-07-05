@@ -1,4 +1,3 @@
-
 body {
 	background-color: #f5eec2;
         margin: 0;
@@ -15,14 +14,6 @@ h1 {
 	font-size:33px;
 	font-color:#39395f;
 
-h2 {
-	text-align: center;
-	
-	
-}
-	
-	
-
 }
 #content {
 	padding-top: 8px;
@@ -37,7 +28,7 @@ footer {
 }
 
 img {
-	width:300px;
+	width:200px;
 	height:200px;
-	display:block;
 }
+
