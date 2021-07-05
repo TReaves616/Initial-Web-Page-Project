@@ -15,6 +15,14 @@ h1 {
 	font-size:33px;
 	font-color:#39395f;
 
+h2 {
+	text-align: center;
+	
+	
+}
+	
+	
+
 }
 #content {
 	padding-top: 8px;
@@ -33,4 +41,9 @@ img {
 	height:200px;
 }
 
-
+background-image{
+     background-image: "images/R.jpg";
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
