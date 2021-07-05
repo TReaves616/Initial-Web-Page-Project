@@ -11,6 +11,11 @@ header {
 	font-size: 23px;
 		
 }
+h1 {
+	font-size:33px;
+	font-color:#39395f;
+
+}
 #content {
 	padding-top: 80px;
 	min-height: 418px;
