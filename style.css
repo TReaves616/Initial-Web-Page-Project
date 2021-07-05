@@ -40,10 +40,3 @@ img {
 	width:300px;
 	height:200px;
 }
-
-background-image{
-     background-image: "images/R.jpg";
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
