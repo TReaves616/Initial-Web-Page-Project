@@ -1,5 +1,5 @@
 body {
-	font-color:#ffffff;
+	font-color:#FFFFFF;
         margin: 0;
         text-align:center;
 	margin-top:3%;
@@ -11,30 +11,30 @@ body {
 
 header {
 	text-align:center;
-        font-color:#ffffff;
+        font-color:#FFFFFF;
 	font-family:'Times New Roman';
 	font-size: 23px;
-	text-color:#ffffff;
+	
 	
 		
 }
 
 main {. padding:0;
 	text-align:center;
-	font-color:#ffffff;
+	font-color:#FFFFFF;
 	
 }
 
 
 h1 {
 	font-size:33px;
-	font-color:#ffffff;
+	font-color:#FFFFFF;
         text-align:center;
 }
 
 h2 {
 	text-align:center;
-	font-color:#ffffff;
+	font-color:#FFFFFF;
 }
 
 ul {
@@ -59,7 +59,7 @@ p { padding:13px;
 }
 footer {
 
-	font-color:#ffffff;
+	font-color:#FFFFFF;
 	padding-bottom:23px;
 	
 }
