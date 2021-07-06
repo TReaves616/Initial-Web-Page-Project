@@ -1,5 +1,5 @@
 body {
-	font-color:#FFFFFF;
+	font-color:#000000;
         margin: 0;
         text-align:center;
 	margin-top:3%;
@@ -11,7 +11,7 @@ body {
 
 header {
 	text-align:center;
-        font-color:#FFFFFF;
+        font-color:#000000;
 	font-family:'Times New Roman';
 	font-size: 23px;
 	
@@ -21,20 +21,20 @@ header {
 
 main {. padding:0;
 	text-align:center;
-	font-color:#FFFFFF;
+	font-color:#000000;
 	
 }
 
 
 h1 {
 	font-size:33px;
-	font-color:#FFFFFF;
+	font-color:#000000;
         text-align:center;
 }
 
 h2 {
 	text-align:center;
-	font-color:#FFFFFF;
+	font-color:#000000;
 }
 
 ul {
@@ -59,7 +59,7 @@ p { padding:13px;
 }
 footer {
 
-	font-color:#FFFFFF;
+	font-color:#000000;
 	padding-bottom:23px;
 	
 }
