@@ -78,4 +78,8 @@ title {
 	font-color:#000000;
 }
 
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
  
