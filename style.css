@@ -90,3 +90,12 @@ title {
     #secondary { width:100%; margin:0; border:none; }
 }
 
+.column {
+  width: 100%;
+}
+
+@media (min-width: 600px) {
+  .column {
+    width: 50%;
+  }
+}
