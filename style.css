@@ -4,6 +4,8 @@ body {
         text-align:center;
 	margin-top:3%;
 	background: url(./images/stars.jpeg);
+	background-repeat:no-repeat;
+	background-size:auto;
 	
 }
 
