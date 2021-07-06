@@ -77,4 +77,21 @@ title {
 	font-color:#000000;
 }
 
+ <style>
+        body {
+            background-image: url(https://www.https://www.bing.com/images/search?view=detailV2&ccid=je06etyN&id=C48DB690C7378CE338C71847235DA25E96958EC6&thid=OIP.je06etyNaz0xAkrkvk7MdQHaFy&mediaurl=https%3a%2f%2fimages.fineartamerica.com%2fimages%2fartworkimages%2fmediumlarge%2f1%2f9-landscape-from-saint-remy-vincent-van-gogh.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8ded3a7adc8d6b3d31024ae4be4ecc75%3frik%3dxo6Vll6iXSNHGA%26pid%3dImgRaw&exph=704&expw=900&q=van+gogh+painting&simid=608030132144059851&ck=FD828ADAF3F9E0245A9595B500C8C66C&selectedIndex=23&FORM=IRPRST&ajaxhist=0&ajaxserp=0.jpeg);
+            background-repeat: repeat;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-top: 200px;
+            font-size: 120px;
+            text-align: center;
+            font-weight: bold;
+            text-transform: uppercase;
+            font-family: 'Steelfish Rg', 'helvetica neue',
+                     helvetica, arial, sans-serif;
+            font-weight: 800;
+            -webkit-font-smoothing: antialiased;
+        }
+    </style>
 
