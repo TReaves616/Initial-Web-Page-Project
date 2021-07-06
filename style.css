@@ -78,33 +78,3 @@ title {
 	font-color:#000000;
 }
 
-<style>
-  main {
-    
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-
-  div {
-    
-    flex-basis: 100%;
-    height: 100px;
-    margin-bottom: 0.5rem;
-  }
-
-  @media (min-width: 600px) {
-    main {
-      flex-wrap: nowrap;
-    }
-
-    div {
-      flex-basis: 33%;
-    }
-  }
-</style>
-<main>
-  <div></div>
-  <div></div>
-  <div></div>
-</main>
