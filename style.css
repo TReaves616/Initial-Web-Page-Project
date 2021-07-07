@@ -107,8 +107,8 @@ a:hover {
 .box::before {
     content: "";
     display: block;
-    width: 100px;
-    height: 100px;
+    width: 23px;
+    height: 23px;
     background-color: rebeccapurple;
     border: 1px solid black;
 }   
