@@ -1,3 +1,5 @@
+/* structure */
+
 body {
 	font-color:#000000;
         margin: 0;
@@ -9,24 +11,38 @@ body {
 	
 }
 
+#content {
+	padding-top: 8px;
+	
+}
+
+img {
+	width:300px;
+	height:200px;
+}
+
+/* header and nav */
 header {
 	text-align:center;
         font-color:#000000;
 	font-family:'Times New Roman';
 	font-size: 23px;
-	
-	
-		
 }
+
+nav a:hover {
+  color: #777;
+}
+
+
 
 main { 
 	padding:0;
 	text-align:center;
 	font-color:#000000;
-	
-	
 }
 
+
+/* type */
 
 h1 {
 	font-size:33px;
@@ -38,6 +54,13 @@ h2 {
 	text-align:center;
 	font-color:#000000;
 }
+
+
+title {
+	font-color:#000000;
+}
+
+
 
 ul {
 text-align: left;
@@ -55,10 +78,10 @@ padding-left:450px;
 p { padding:13px;
 }
 
-#content {
-	padding-top: 8px;
-	
-}
+
+
+
+/* footer */
 footer {
 
 	font-color:#000000;
@@ -70,12 +93,6 @@ footer {
 	margin: auto;
 }
 
-img {
-	width:300px;
-	height:200px;
-}
 
-title {
-	font-color:#000000;
-}
+
 
