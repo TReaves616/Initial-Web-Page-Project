@@ -94,5 +94,14 @@ footer {
 }
 
 
+a:link,
+a:visited {
+    color: #FFFFFF;
+    font-weight: bold;
+}
 
+a:hover {
+    color:hotpink;
+}   
+    
 
