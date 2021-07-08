@@ -112,9 +112,3 @@ a:hover {
     background-color: #663399; /* Set background color to rebecca purple */
     border: 1px solid #000000; /* Set border color to black */
 }   
-    
-@media only screen and (max-width: 600px) {
-body {
-
-}
-}
